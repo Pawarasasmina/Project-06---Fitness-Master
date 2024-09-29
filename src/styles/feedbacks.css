@@ -5,6 +5,14 @@ body {
     margin: 0;
     padding: 0;
 }
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #6d090985, #24010177); /* Gradient background */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
 
 h1 {
     text-align: center;
